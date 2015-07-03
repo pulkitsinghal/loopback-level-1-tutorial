@@ -7,5 +7,5 @@ This training VM is built using the `CODIO-CERTIFIED / Node.JS + nvm` stack whic
 * Install StrongLoop tools for LoopBack applications.
 
 ``` bash
-$ npm shell -g strongloop
+$ npm install -g strongloop
 ```

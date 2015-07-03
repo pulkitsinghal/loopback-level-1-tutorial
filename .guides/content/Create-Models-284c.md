@@ -10,12 +10,14 @@ $ slc loopback:model
 * The generator guides you through creating your model. Enter the values highlighted in blue. To accept the default, just press Enter.
 
 ``` bash
-[?] Enter the model name: person
-[?] Select the data-source to attach person to: db (memory)
-[?] Expose person via the REST API? Yes
-[?] Custom plural form (used to build REST URL): people
+? Enter the model name: person                                                      
+? Select the data-source to attach person to: db (memory)                           
+? Select model's base class: PersistedModel                                         
+? Expose person via the REST API? Yes                                               
+? Custom plural form (used to build REST URL): people                               
 Let's add some person properties now.
 ```
+
 * Define a firstname property for the person model
 
 ``` bash

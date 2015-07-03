@@ -3,6 +3,6 @@
 
 ``` bash
 $ slc loopback
-[?] Enter a directory name where to create the project: hello-world
-[?] What's the name of your application? hello-world
+? What's the name of your application? hello-world                               
+? Enter name of the directory to contain the project: hello-world  
 ```

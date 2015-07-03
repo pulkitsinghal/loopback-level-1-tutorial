@@ -1,0 +1,37 @@
+{
+ "sections": [
+  {
+   "id": "c3096cdd-c11e-9cb8-9f90-9142847f959f",
+   "title": "Getting Started",
+   "files": [
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Getting-Started-c309.md"
+  },
+  {
+   "id": "440bd814-7e8c-34b-2fb4-1fb20cca94",
+   "title": "Create App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Create-App-440b.md"
+  },
+  {
+   "id": "284c91c9-765-f8eb-801a-5412859fa30",
+   "title": "Create Models",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Create-Models-284c.md"
+  }
+ ],
+ "theme": "charcoal",
+ "scripts": []
+}
